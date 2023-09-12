@@ -11,4 +11,4 @@
   reis.caua@escola.pr.gov.br
   @morato_caua
 
-![image](https://github.com/Moratocaua/Moratocaua/assets/133008118/cca35248-1435-4a2a-94e9-98a9b3ce97e4)
+![](https://github.com/Moratocaua/Moratocaua/assets/133008118/cca35248-1435-4a2a-94e9-98a9b3ce97e4)
